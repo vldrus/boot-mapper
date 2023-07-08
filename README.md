@@ -1,1 +1,1 @@
-Simple `Spring Boot` + `Lombok` + `MapStruct` example
+Simple `SpringBoot` + `Lombok` + `MapStruct` example
