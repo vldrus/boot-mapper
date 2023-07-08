@@ -1,0 +1,1 @@
+Simple `Spring Boot` + `Lombok` + `MapStruct` example
